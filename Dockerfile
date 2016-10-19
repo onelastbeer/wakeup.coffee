@@ -1,2 +1,2 @@
-FROM werwolfby/armhf-alpine-nginx 
+FROM nginx 
 COPY www /usr/share/nginx/html
