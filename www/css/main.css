@@ -15,6 +15,12 @@ body, html {
 
 }
 
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
 @media only screen and (min-width: 601px) {
   .bgimg-1 {
     background-image: url("../img/coffee-cup.jpg");
