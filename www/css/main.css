@@ -7,7 +7,7 @@ body, html {
 
 .bgimg-1, .bgimg-2, .bgimg-3  {
   position: relative;
-  opacity: 0.65;
+  opacity: 1;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ body, html {
 
 .overlay span.border {
   background-color: #282E34;
-  color: #fff;
+  color: #EFE9F4;
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
@@ -65,7 +65,7 @@ body, html {
 
 .overlay span.transparent {
   background-color: transparent;
-  color: #fff;
+  color: #EFE9F4;
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
