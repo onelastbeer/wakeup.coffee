@@ -23,25 +23,25 @@ body, html {
 
 @media only screen and (min-width: 601px) {
   .bgimg-1 {
-    background-image: url("../img/coffee-cup-brown.jpg");
+    background-image: url("../img/coffee-cup-brown-alpha.jpg");
     min-height: 500px;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .bgimg-1 {
-    background-image: url("../img/coffee-cup-small-brown.jpg");
+    background-image: url("../img/coffee-cup-small-brown-alpha.jpg");
     min-height: 300px;
   }
 }
 
 .bgimg-2 {
-  background-image: url("../img/code-brown.jpg");
+  background-image: url("../img/code-brown-alpha.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("../img/ripplesofwater-brown.jpg");
+  background-image: url("../img/ripplesofwater-brown-alpha.jpg");
   min-height: 400px;
 }
 
